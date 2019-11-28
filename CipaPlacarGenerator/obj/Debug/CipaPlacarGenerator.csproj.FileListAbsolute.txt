@@ -1,0 +1,10 @@
+C:\projetos\CipaPlacarGenerator_sln\CipaPlacarGenerator\bin\Debug\CipaPlacarGenerator.exe
+C:\projetos\CipaPlacarGenerator_sln\CipaPlacarGenerator\bin\Debug\CipaPlacarGenerator.pdb
+C:\projetos\CipaPlacarGenerator_sln\CipaPlacarGenerator\obj\Debug\CipaPlacarGenerator.csprojAssemblyReference.cache
+C:\projetos\CipaPlacarGenerator_sln\CipaPlacarGenerator\obj\Debug\CipaPlacarGenerator.Form1.resources
+C:\projetos\CipaPlacarGenerator_sln\CipaPlacarGenerator\obj\Debug\CipaPlacarGenerator.Properties.Resources.resources
+C:\projetos\CipaPlacarGenerator_sln\CipaPlacarGenerator\obj\Debug\CipaPlacarGenerator.csproj.GenerateResource.cache
+C:\projetos\CipaPlacarGenerator_sln\CipaPlacarGenerator\obj\Debug\CipaPlacarGenerator.csproj.CoreCompileInputs.cache
+C:\projetos\CipaPlacarGenerator_sln\CipaPlacarGenerator\obj\Debug\CipaPlacarGenerator.exe
+C:\projetos\CipaPlacarGenerator_sln\CipaPlacarGenerator\obj\Debug\CipaPlacarGenerator.pdb
+C:\projetos\CipaPlacarGenerator_sln\CipaPlacarGenerator\bin\Debug\CipaPlacarGenerator.exe.config
